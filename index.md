@@ -11,13 +11,14 @@ _Sou estudante de jogos_
 # Games
 
 [JOGO 1: OFICINA - DRACUL](https://tayllson.github.io/Dracul1/)   
-  [Adventuri Runner](https://tayllson.github.io/AdventuriRunner/)
+  [![](jogo1.png)](https://tayllson.github.io/AdventuriRunner/)
+
 
 
 # Artes
 
 ![](Ramiste.png)
-
+![](Adventuri.png)
 
 ## Apresentações
 * Aula de Música
