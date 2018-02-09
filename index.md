@@ -6,12 +6,17 @@ Criando **minha**, _página_,  ~~principal~~.
 
 # Quem sou eu
 
-_Sou estudante de jogos_
-
+Olá! Me chamo Tailson Ferreira.   
+Sou estudante do IFRN/Campus Ceára-Mirim do curso de Programação de Jogos Digitas.   
+**VEM CONHECER MEUS JOGOS**
+# Informações pessoais
+Facebook: Tailson Ferreira   
+Instagram: @_tailson.f
 # Games
 
 [JOGO 1: OFICINA - DRACUL](https://tayllson.github.io/Dracul1/)     
-  [![](Adventuri.png)](https://tayllson.github.io/AdventuriRunner/)
+[JOGO 2: OFICINA - ADVENTURIRUNNER](https://tayllson.github.io/AdventuriRunner/)  
+[JOGO 3: OFICINA - MUNDOROBÔ](https://tayllson.github.io/AdventuriRunner/) 
 
 
 
