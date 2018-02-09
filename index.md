@@ -22,8 +22,6 @@ Instagram: @_tailson.f
 
 # Artes
 
-![](Ramiste.png)
-![](Adventuri.png)
 
 ## Apresentações
 * Aula de Música
