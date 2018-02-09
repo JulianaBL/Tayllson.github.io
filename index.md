@@ -10,8 +10,8 @@ _Sou estudante de jogos_
 
 # Games
 
-[JOGO 1: OFICINA - DRACUL](https://tayllson.github.io/Dracul1/)   
-  [![](jogo1.png)](https://tayllson.github.io/AdventuriRunner/)
+[JOGO 1: OFICINA - DRACUL](https://tayllson.github.io/Dracul1/)     
+  [![](Adventuri.png)](https://tayllson.github.io/AdventuriRunner/)
 
 
 
