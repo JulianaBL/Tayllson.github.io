@@ -16,7 +16,7 @@ _Sou estudante de jogos_
 
 # Artes
 
-)
+![](Ramiste.png)
 
 
 ## Apresentações
