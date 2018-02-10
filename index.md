@@ -21,7 +21,9 @@ Instagram: @_tailson.f
 
 
 # Artes
+
 ![](teladra.png)
+![](vt.png) 
 
 ## Apresentações
 * Aula de Música
