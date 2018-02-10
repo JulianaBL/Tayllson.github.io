@@ -6,7 +6,7 @@ Criando **minha**, _página_,  ~~principal~~.
 
 # Quem sou eu
 
-![](tai2.png) Olá! Me chamo Tailson.   
+Olá! Me chamo Tailson.   
 Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitas.   
 **VEM CONHECER MEUS JOGOS**
 # Informações pessoais
