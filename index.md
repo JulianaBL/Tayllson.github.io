@@ -6,12 +6,14 @@ Criando **minha**, _página_,  ~~principal~~.
 
 # Quem sou eu
 
-![](t11.png) Olá! Me chamo Tailson.   
+![](t11.png) Olá! Me chamo Tailson Ferreira.   
 Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitais.   
 **VEM CONHECER MEUS JOGOS**
 # Informações pessoais
+
 Facebook: Tailson Ferreira   
-Instagram: @_tailson.f
+Instagram: @_tailson.f  
+Email: Tayllssonwer@gmail.com
 # Games
 
 [JOGO 1: OFICINA - DRACUL](https://tayllson.github.io/Dracul1/)     
@@ -36,6 +38,12 @@ Instagram: @_tailson.f
 * Jogo 2 - Adventuri Runner - Esse é um jogo Mobile. Adventuri Runner é um jogo especialmente para celulares, pois foi pensado para esse tipo de jogo a utilização de smartfone que vem crescendo fortemente no mercado de jogos. A pequena garota, está sempre em busca de aventuras, por isso que criei um jogo Runner em que a garota deverá coletar o máximo possível de moedas e pergaminhos seguindo sempre em frente.
 
 * Jogo 3 - Mundo Robô - Jogamos em PC. Mundo Robô é um jogo de tiro, onde máquinas estão lutando para poder se manter. O jogo é construído em pixel art, ele se passa em um mundo chamando PixelTron. Antes de acabar com toda sua munição, pense bem, para abrir as portas você precisará de bala e os inimigos tomam vantagem quando você não tem munição.
+
+# Projetos
+
+ * Gameterapia/ uma forma de unir jogos digitais a pacientes acometidos pelo Acidente fascular encefálico(AVE) - Esse projeto surgiu a partir de uma atividade que foi passada em sala de aula pela professora de biologia, Videanny Videnov. Para desenvolver o projeto, meu grupo e eu, optamos em acrescentar o curso de jogos no projeto, por isso do termo " Unir jogos digitais". A pesquisa foi feita com idosos do asilo são vincente de Paulo em Ceará-Mirim/RN. O desenvolvmento desse projeto é analisar jogos digitais e consoles para utilizar-los como Gameterapia em pessoas que sofreram o AVE. Além disso, é trazer uma boa condição de vida para pessoas acometidas de uma forma mais ludica.   
+ 
+ * Projeto integrador - É um jogo digital(Tower Defende), vinculado com a materia de biologia. Tratamos de unir o estilo de jogo a uma área estudada pela disciplina de biologia, daí optamos por fazer uma espécie de agregação envolvendo o game a vírus e bactérias. O game consiste em defender o organismo de determinadas bactérias ou vírus. Tower Defende (em português, defesas de torres), tem como objetivo impedir que inimigos percorram por um mapa por meio de armadilhas para atrasá-los e torres que atiram neles enquanto passam. 
 
 
 
