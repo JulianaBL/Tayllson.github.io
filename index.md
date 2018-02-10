@@ -7,7 +7,7 @@ Criando **minha**, _página_,  ~~principal~~.
 # Quem sou eu
 
 ![](t11.png) Olá! Me chamo Tailson.   
-Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitas.   
+Sou estudante do IFRN/Campus Ceará-Mirim, do curso técnico em Programação de Jogos Digitais.   
 **VEM CONHECER MEUS JOGOS**
 # Informações pessoais
 Facebook: Tailson Ferreira   
