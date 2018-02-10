@@ -16,7 +16,7 @@ Instagram: @_tailson.f
 
 [JOGO 1: OFICINA - DRACUL](https://tayllson.github.io/Dracul1/)     
 [JOGO 2: OFICINA - ADVENTURIRUNNER](https://tayllson.github.io/AdventuriRunner/)  
-[JOGO 3: OFICINA - MUNDOROBÔ](https://tayllson.github.io/AdventuriRunner/) 
+[JOGO 3: OFICINA - MUNDOROBÔ]() 
 
 
 
@@ -24,6 +24,8 @@ Instagram: @_tailson.f
 
 ![](teladra.png)
 ![](vt.png) 
+![](ad.png)
+![](rn.png)
 
 ## Apresentações
 * Aula de Música
