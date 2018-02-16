@@ -1,8 +1,7 @@
 ---
 layout: default
----
-
-Criando **minha**, _página_,  ~~principal~~.
+---  
+**PORTIFÓLIO**
 
 # Quem sou eu
 
